@@ -1,17 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Izquierda: Título -->
-  <div>
-    <h2>Hola 👋, soy Diego Paz Soldan</h2>
-  </div>
-
-  <!-- Derecha: Contacto -->
-  <div>
-    <h3>Contacto</h3>
-    <p>Email: <a href="mailto:diego@example.com">diego@example.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/tu-perfil">linkedin.com/in/tu-perfil</a></p>
-    <p>GitHub: <a href="https://github.com/tu-usuario">github.com/tu-usuario</a></p>
-  </div>
-</div>
+<h2 align="center">Hola 👋, soy Diego Paz Soldan</h2>
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ### Sobre mi
