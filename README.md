@@ -1,5 +1,5 @@
-<h2 align="center">Hola 👋, soy Diego Paz Soldan</h2> ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
+<h2 align="center">Hola 👋, soy Diego Paz Soldan ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+</h2> 
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
