@@ -1,5 +1,19 @@
-<h2 align="center">Hola 👋, soy Diego Paz Soldan ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-</h2> 
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <!-- Izquierda: Saludo + badges de contacto -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <h2 style="margin: 0;">Hola 👋, soy Diego Paz Soldan</h2>
+    
+    <!-- Badges de contacto -->
+    <a href="https://linkedin.com/in/tu-perfil" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:diego@example.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://github.com/tu-usuario" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </div>
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
