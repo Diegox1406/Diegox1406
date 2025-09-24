@@ -1,9 +1,7 @@
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <!-- Izquierda: Saludo + badges de contacto -->
   <div style="display: flex; align-items: center; gap: 10px;">
     <h2 style="margin: 0;">Hola 👋, soy Diego Paz Soldan</h2>
-    
-    <!-- Badges de contacto -->
+    <
     <a href="https://linkedin.com/in/tu-perfil" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
