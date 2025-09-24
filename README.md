@@ -6,6 +6,9 @@
 - 🎓 Estudiante de **Desarrollo de Software** en el 6to ciclo en **ISIL (Instituto San Ignacio de Loyola)**.
 - 📚 Actualmente desarrollando proyectos con **Java** y aprendiendo tanto frontend como backend.
 - 💪🏼 Metas: Aprender nuevas tecnologías y habilidades que impulsen mi desarrollo profesional.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegosoftdev)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pazsoldan1320@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diegox1406?tab=repositories)
 ---
 ##### Backend Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -22,9 +25,5 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
----
-##### Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegosoftdev)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pazsoldan1320@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diegox1406?tab=repositories)
+
 
