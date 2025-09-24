@@ -5,6 +5,6 @@
 
 ## Sobre mi
 
-- 👨‍💻 Soy estudiante del 6to ciclo de la carrera de Desarrollo de Software en Isil (Instituto San Ignasio de Loyola).
-- 📚 Actualmente desarrollando proyectos con Java y aprendiendo todo sobre frontend y backend.
-- 💪🏼 Metas: Aprender nuevas tecnólogias y habilidades.
+- 🎓 Estudiante de **Desarrollo de Software** en el 6to ciclo en **ISIL (Instituto San Ignacio de Loyola)**.  
+- 📚 Actualmente desarrollando proyectos con **Java** y aprendiendo tanto frontend como backend.
+- 💪🏼 Metas: Aprender nuevas tecnólogias y habilidades que impulsen mi desarrollo profesional.
