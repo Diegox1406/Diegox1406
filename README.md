@@ -1,7 +1,7 @@
 
 ### Hola 👋, Soy Diego Paz Soldan
 
-<img align="right" alt="GIF" height="120px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" alt="GIF" height="200px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## Sobre mi
 
