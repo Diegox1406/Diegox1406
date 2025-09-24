@@ -1,4 +1,4 @@
-<h2 align="center">Hola 👋, soy Diego Paz Soldan</h2>
+### Hola 👋, soy Diego Paz Soldan
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
