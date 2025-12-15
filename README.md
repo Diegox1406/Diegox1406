@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ### Sobre mi
-- 🎓 Egresado de **Desarrollo de Software** en **ISIL (Instituto San Ignacio de Loyola)**.
+- 🎓 Desarrollador de Software.
 - 📚 Explorando tanto frontend como backend.
 - 💪🏼 Metas: Aprender nuevas tecnologías y habilidades que impulsen mi desarrollo profesional.
 ---
