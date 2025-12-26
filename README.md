@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-### Sobre mi
-- 🎓 Desarrollador de Software.
-- 📚 Explorando tanto frontend como backend.
-- 💪🏼 Metas: Aprender nuevas tecnologías y habilidades que impulsen mi desarrollo profesional.
+### Sobre mí
+- 🎓 Desarrollador de Software enfocado en backend.
+- ⚙️ Desarrollo de APIs y aplicaciones escalables.
+- ☁️ Interés en Cloud y DevOps.
 ---
 ## 🧠 Lenguajes
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
